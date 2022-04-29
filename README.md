@@ -4,11 +4,11 @@ Hi 👋 My name is Prateek Pant
 I am a physicist who liked to code and am now looking to transition into the field of Data Science.
 
 * 🌍  I'm based in India
-* 👀   I’m interested in Machine Learning and Data analysis
+* 👀 &nbsp;I’m interested in Machine Learning and Data analysis
 * 🧠  I'm currently learning Deep Learning
 * 🤝  I'm open to collaborating on interesting projects
 * ✉️  You can contact me at [prateekpant127@gmail.com](mailto:prateekpant127@gmail.com)
-* ⚡  Come challenge me at a game of [chess](https://www.chess.com/member/prateek_14)
+* ⚡ &nbsp;Come challenge me at a game of [chess](https://www.chess.com/member/prateek_14)
 
 ### Skills
 
