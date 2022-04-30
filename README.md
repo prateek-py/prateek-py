@@ -1,7 +1,7 @@
 Hi 👋 My name is Prateek Pant
 =============================
 
-I am a physicist who liked to code and am now looking to transition into the field of Data Science.
+A physicist passionate about coding, and interested in transitioning into the field of Data Science.
 
 * 🌍  I'm based in India
 * 👀 &nbsp;I’m interested in Machine Learning and Data analysis
